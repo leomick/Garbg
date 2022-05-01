@@ -5,4 +5,4 @@
 <a href="https://endeavouros.com/"><img src="os-endeavour.svg"></a>
 <a href="https://forthebadge.com/"><img src="badges-for-the-badge.svg"></a>  
 The best grub theme (not by me): <a href="https://github.com/mateosss/matter">mateosss/matter</a>  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudyWhale)](https://github.com/anuraghazra/github-readme-stats)
+[![CloudyWhale's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudyWhale)](https://github.com/anuraghazra/github-readme-stats&theme=nord)
