@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Waterfox Web Browser
+Comment=Fork of Mozilla Firefox featuring some legacy extensions, removed telemetry and no Pocket integration.
+GenericName=Web Browser
+Keywords=Internet;WWW;Browser;Web;Explorer
+Exec=waterfox %U
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=waterfox
+Categories=GNOME;GTK;Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
+StartupNotify=true
